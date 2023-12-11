@@ -1,4 +1,4 @@
-![logo](https://github.com/Raian010/Raian010/blob/main/download%20(1).png)
+<img align="center" alt="logo" width="800" src="https://github.com/Raian010/Raian010/blob/main/download%20(1).png">
 <h1 align="center">Hi 👋, I'm MD.Abrarul Hoque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raian010&show_icons=true&locale=en" alt="raian010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raian010&" alt="raian010" /></p>
+
+###Recent Projects
+1.
