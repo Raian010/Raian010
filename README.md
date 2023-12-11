@@ -42,13 +42,19 @@
    - **Website Link:** [Career Nest](https://assignment-eleven-client-fc371.web.app/)
    - **Details:**
      -This is a website where any one can bid for any job and anyone can post job if he is the owner.This website will be useful for both owners and employes.With the "Add Job" page, users can add jobs for employees. Bidding system allows users to bid on jobs without posting.Bid request page for clients to view bid requests.Owner can manage employee bids by accepting or rejecting them. Exclusive owner rights to delete or update posted jobs.
+     - **Client side git:** https://github.com/Raian010/Job-Bidding-Site
+     - **Server side git:** https://github.com/Raian010/Job-Bidding-Server
 
 2. **My Car**
    - **Website Link:** [My Car](https://automative-assignment.web.app)
    - **Details:**
      -This is a car buying websit,where i can easily buy cars from here.Clicking on brand names to navigate to product pages.Detailed product pages with update functionality.Private routes accessible only when logged in."Add to Cart" button on product details page.User registration and login functionality.
+      - **Client side git:** https://github.com/Raian010/Automative
+     - **Server side git:**   https://github.com/Raian010/Automative-server
 
 3. **Fitness Freak**
    - **Website Link:** [Fitness Freak](https://assignment-final-client.web.app/)
    - **Details:**
      -This is  a website for different trainers and also for them who want to apply for tainers.Gallery page showcasing fitness website photos.Newsletter subscription feature.Trainer page with courses and trainer details.Users can apply as a trainer in the trainer details page.Separate dashboards for admin and users.
+      - **Client side git:** https://github.com/Raian010/Admin-User-Panel
+     - **Server side git:** https://github.com/Raian010/Admin-User-Panel-Server
