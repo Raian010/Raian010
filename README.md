@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md.abrarul hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.abrarul hoque" height="30" width="40" /></a>
-<a href="https://fb.com/md.abrarul hoque raian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.abrarul hoque raian" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammadabrarulhoque.raian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.abrarul hoque raian" height="30" width="40" /></a>
 <a href="https://instagram.com/_raian_010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_raian_010" height="30" width="40" /></a>
 </p>
 
