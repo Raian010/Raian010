@@ -36,5 +36,27 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raian010&" alt="raian010" /></p>
 
-###Recent Projects
-1.
+### Recent Projects
+
+1. **Career Nest**
+   - **Website Link:** [Career Nest](https://assignment-eleven-client-fc371.web.app/)
+   - **Details:**
+     - With the "Add Job" page, users can add jobs for employees. Bidding system allows users to bid on jobs without posting.Bid request page for clients to view bid requests.Owner can manage employee bids by accepting or rejecting them. Exclusive owner rights to delete or update posted jobs.
+
+2. **My Car**
+   - **Website Link:** [My Car](https://automative-assignment.web.app)
+   - **Details:**
+     - Click on brand names to navigate to product pages.
+     - Detailed product pages with update functionality.
+     - Private routes accessible only when logged in.
+     - "Add to Cart" button on product details page.
+     - User registration and login functionality.
+
+3. **Fitness Freak**
+   - **Website Link:** [Fitness Freak](https://assignment-final-client.web.app/)
+   - **Details:**
+     - Gallery page showcasing fitness website photos.
+     - Newsletter subscription feature.
+     - Trainer page with courses and trainer details.
+     - Users can apply as a trainer in the trainer details page.
+     - Separate dashboards for admin and users.
